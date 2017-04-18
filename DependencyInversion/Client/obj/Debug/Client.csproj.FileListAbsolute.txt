@@ -1,0 +1,12 @@
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\Client.exe.config
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\Client.exe
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\Client.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\BusinessServicesLayer.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\CoreData.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\DBLayer.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\BusinessServicesLayer.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\CoreData.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\bin\Debug\DBLayer.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\obj\Debug\Client.exe
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\Client\obj\Debug\Client.pdb

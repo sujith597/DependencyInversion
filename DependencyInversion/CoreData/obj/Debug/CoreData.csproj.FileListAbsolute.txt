@@ -1,0 +1,4 @@
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\CoreData\bin\Debug\CoreData.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\CoreData\bin\Debug\CoreData.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\CoreData\obj\Debug\CoreData.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\CoreData\obj\Debug\CoreData.pdb

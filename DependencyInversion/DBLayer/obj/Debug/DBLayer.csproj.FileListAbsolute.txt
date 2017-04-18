@@ -1,0 +1,7 @@
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\DBLayer\bin\Debug\CoreData.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\DBLayer\bin\Debug\CoreData.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\DBLayer\obj\Debug\DBLayer.csprojResolveAssemblyReference.cache
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\DependencyInversion\DependencyInversion\DBLayer\obj\Debug\DBLayer.pdb
