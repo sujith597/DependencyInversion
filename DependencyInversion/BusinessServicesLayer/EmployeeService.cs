@@ -13,7 +13,9 @@ namespace BusinessServicesLayer
     {
         public IEmployeeRepository _EmployeeRepository; // Depending upon Interface and Repository depends on Interface 
         // Here we achieved Inversion of control using abstraction. 
-        
+      
+      
+
         public EmployeeService(IEmployeeRepository employeeRepository) // Here Employee Service not dealing with creating of Repository Object
         {
             // Some one just injecting repository into Employee service and It just assigning it. 

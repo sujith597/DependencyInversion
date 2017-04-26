@@ -13,6 +13,7 @@ namespace Client
     {
         static void Main(string[] args)
         {
+           
            IEmployeeService _employeeService = new EmployeeService();
             Console.WriteLine("Adding Different Employees");
             for (int i = 0; i < 10; i++)
